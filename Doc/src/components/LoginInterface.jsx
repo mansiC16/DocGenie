@@ -38,7 +38,7 @@ const LoginInterface = () => {
   />
 </div>
           <div className="login-text">
-            <h1>Login Here</h1>
+            <h1>Sign in Here</h1>
             <p>Start your journey<br />now with us</p>
           </div>
         </div>
